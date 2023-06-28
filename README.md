@@ -5,5 +5,5 @@
 </picture>
 
 <p align="center">
-**Test**
+This is my first repositorie, and its a discord rat lol
 </p>
