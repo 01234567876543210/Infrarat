@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-This is my first repositorie, and its a discord rat lol
+This is my first repository, and its a discord rat lol
 </p>
 
 
