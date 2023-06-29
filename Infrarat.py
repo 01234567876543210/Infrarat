@@ -5,7 +5,7 @@ load_dotenv()
 login = os.getlogin()
 client = discord.Client(intents=discord.Intents.all())
 session_id = os.urandom(8).hex()
-guild_id = "1120790073386991706"  
+guild_id = "Here-the-Guild-ID"  
 
 @client.event
 async def on_ready():
