@@ -27,4 +27,4 @@ This is my first repository, and its a discord rat lol
 1. goto line 145 and paste in `client.run('Here-the-Bot-Token')` your Bot Token
 
 ---------------------------------------------------------------------------------------
-## If you have improvements, questions or so you can create a issue or dm me on Discord .l133
+## This Project is closed because i have no time.
